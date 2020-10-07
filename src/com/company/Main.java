@@ -8,6 +8,9 @@ public class Main {
         String hiString = new String(hiArray);
         System.out.println( hiString );
 
+        String name = "jack";
+        int length = name.length();
+        System.out.println("number of letters :" + length);
 
     }
 }
