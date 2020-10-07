@@ -12,5 +12,11 @@ public class Main {
         int length = name.length();
         System.out.println("number of letters :" + length);
 
+        //concat example
+
+        String firstName = "Chandrika";
+        String lastName = "Dey";
+        System.out.println("I am " + firstName + "." + "My last name is " + lastName + ".");
+
     }
 }
